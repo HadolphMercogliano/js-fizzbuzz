@@ -3,5 +3,24 @@
 /* HEADER */
 
 /* MAIN */
+main {
+    background-color: #0a4b61;
+}
+
+.bg-blue {
+    background-color: #1389b2;
+}
+
+.bg-green {
+    background-color: #0cd6a1;
+}
+
+.bg-yellow {
+    background-color: #ffd166;
+}
+
+.bg-red {
+    background-color: crimson;
+}
 
 /* FOOTER */
